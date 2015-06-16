@@ -1,6 +1,6 @@
 ##Description
 
-LearnPress bbPress bring forum to your course. Now, teacher can interact with students and students in a course can discuss with each other about the course. LearnPress bbPress simply empower course with feartures of forum.  
+**LearnPress bbPress** bring forum to your course. Now, teacher can interact with students and students in a course can discuss with each other about the course. LearnPress bbPress simply empower course with feartures of forum.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
@@ -36,6 +36,6 @@ LearnPress bbPress bring forum to your course. Now, teacher can interact with st
 **Can I create an add-on for LearnPress like *LearnPress bbPress* by myself?**  
 Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki">LearnPress github repo.</a>
 
-##Other note ==  
+##Other note
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
 <a href="https://github.com/LearnPress/LearnPress/">LearnPress github repo.</a>
